@@ -16,3 +16,8 @@ Le repertoire comporte 3 fichiers (2 fichiers notebook et le jeu de données qui
 on a proposé une illustration graphique de ce classement.
 
 Ensuite, On a fait une prédiction sur le nombre de validations dans les stations "OLYMPIADES" et "M. MONTROUGE" sur la plage du 24 au 30 juin ?
+
+       - Classement des 20 premères stations en terme de validations
+       
+
+![image](https://user-images.githubusercontent.com/58962159/93128190-687e6b00-f6cf-11ea-8c27-2997a4e60d3d.png)
